@@ -1,0 +1,5 @@
+/home/zubair/C/tictac/tictac/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/zubair/C/tictac/tictac/bin/Debug/tictac.exe.mdb
+/home/zubair/C/tictac/tictac/bin/Debug/tictac.exe
+/home/zubair/C/tictac/tictac/obj/x86/Debug/tictac.exe
+/home/zubair/C/tictac/tictac/obj/x86/Debug/tictac.exe.mdb

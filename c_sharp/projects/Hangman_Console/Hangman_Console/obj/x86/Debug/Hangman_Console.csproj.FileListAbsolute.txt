@@ -1,0 +1,5 @@
+H:\MyShit\github\C\c_sharp\projects\Hangman_Console\Hangman_Console\obj\x86\Debug\Hangman_Console.exe
+H:\MyShit\github\C\c_sharp\projects\Hangman_Console\Hangman_Console\bin\Debug\Hangman_Console.exe
+H:\MyShit\github\C\c_sharp\projects\Hangman_Console\Hangman_Console\bin\Debug\Hangman_Console.pdb
+H:\MyShit\github\C\c_sharp\projects\Hangman_Console\Hangman_Console\obj\x86\Debug\Hangman_Console.csprojResolveAssemblyReference.cache
+H:\MyShit\github\C\c_sharp\projects\Hangman_Console\Hangman_Console\obj\x86\Debug\Hangman_Console.pdb
