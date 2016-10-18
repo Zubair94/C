@@ -4,6 +4,3 @@ H:\MyShit\test\test\bin\Debug\test.pdb
 H:\MyShit\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
 H:\MyShit\test\test\obj\Debug\test.exe
 H:\MyShit\test\test\obj\Debug\test.pdb
-H:\MyShit\github\C\c_sharp\projects\test\test\bin\Debug\test.exe.config
-H:\MyShit\github\C\c_sharp\projects\test\test\obj\Debug\test.exe
-H:\MyShit\github\C\c_sharp\projects\test\test\obj\Debug\test.pdb

@@ -1,0 +1,5 @@
+H:\MyShit\tictac\tictac\obj\x86\Debug\tictac.exe
+H:\MyShit\tictac\tictac\bin\Debug\tictac.exe
+H:\MyShit\tictac\tictac\bin\Debug\tictac.pdb
+H:\MyShit\tictac\tictac\obj\x86\Debug\tictac.csprojResolveAssemblyReference.cache
+H:\MyShit\tictac\tictac\obj\x86\Debug\tictac.pdb
