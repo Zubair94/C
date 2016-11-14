@@ -1,0 +1,9 @@
+H:\MyShit\Calculator\Calculator\bin\Debug\Calculator.exe.config
+H:\MyShit\Calculator\Calculator\bin\Debug\Calculator.exe
+H:\MyShit\Calculator\Calculator\bin\Debug\Calculator.pdb
+H:\MyShit\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+H:\MyShit\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+H:\MyShit\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+H:\MyShit\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+H:\MyShit\Calculator\Calculator\obj\Debug\Calculator.exe
+H:\MyShit\Calculator\Calculator\obj\Debug\Calculator.pdb
