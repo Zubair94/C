@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Calculator/Calculator.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Form1.cs">
+    <Files>
+      <File FileName="Calculator/Program.cs" Line="7" Column="21" />
+      <File FileName="Calculator/Form1.Designer.cs" Line="357" Column="1" />
+      <File FileName="Calculator/Form1.cs" Line="17" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -14,6 +14,7 @@ namespace Calculator
     {
         private bool clear = true;
         private double Result = 0;
+		//private double Resultm = 1;
         private double x;
         Button Clicked;
 
@@ -137,15 +138,14 @@ namespace Calculator
         private void button_add_Click(object sender, EventArgs e)
         {
             Clicked = (Button)sender;
-            
+
             button_equal.PerformClick();
         }
 
         private void button_sub_Click(object sender, EventArgs e)
         {
             Clicked = (Button)sender;
-            
-            button_equal.PerformClick();
+			button_equal.PerformClick();
             
         }
 
@@ -169,27 +169,63 @@ namespace Calculator
                 ResultBox.Clear();
                 if (Clicked == button_div)
                 {
-                    Result = Result / x;
-                    ResultBox.Text = Result.ToString();
-                    clear = false;
+					if(Result == 0)
+					{
+						Result = x;
+						ResultBox.Text = Result.ToString();
+						clear = false;
+					}
+					else
+					{
+                    	Result = Result / x;
+                    	ResultBox.Text = Result.ToString();
+                    	clear = false;
+					}
                 }
                 else if (Clicked == button_add)
                 {
-                    Result = Result + x;
-                    ResultBox.Text = Result.ToString();
-                    clear = false;
-                }
+					if(Result == 0)
+					{
+						Result = x;
+						ResultBox.Text = Result.ToString();
+						clear = false;
+					}
+					else
+					{
+						Result = Result + x;
+						ResultBox.Text = Result.ToString();
+						clear = false;
+					}
+				}
                 else if (Clicked == button_sub)
                 {
-                    Result = Result - x;
-                    ResultBox.Text = Result.ToString();
-                    clear = false;
+					if(Result == 0)
+					{
+						Result = x;
+						ResultBox.Text = Result.ToString();
+						clear = false;
+					}
+					else
+					{
+						Result = Result - x;
+						ResultBox.Text = Result.ToString();
+						clear = false;
+					}
                 }
                 else if (Clicked == button_mult)
                 {
-                    Result = Result * x;
-                    ResultBox.Text = Result.ToString();
-                    clear = false;
+					if(Result == 0)
+					{
+						Result = x;
+						ResultBox.Text = Result.ToString();
+						clear = false;
+					}
+					else
+					{
+						Result = Result * x;
+						ResultBox.Text = Result.ToString();
+						clear = false;
+					}
                 }
                 else
                 {
