@@ -1,0 +1,16 @@
+H:\MyShit\Leave Mangament\Leave Mangament\bin\Debug\Leave Mangament.exe.config
+H:\MyShit\Leave Mangament\Leave Mangament\bin\Debug\Leave Mangament.exe
+H:\MyShit\Leave Mangament\Leave Mangament\bin\Debug\Leave Mangament.pdb
+H:\MyShit\Leave Mangament\Leave Mangament\bin\Debug\MySql.Data.dll
+H:\MyShit\Leave Mangament\Leave Mangament\bin\Debug\MySql.Data.xml
+H:\MyShit\Leave Mangament\Leave Mangament\obj\Debug\Leave Mangament.csprojResolveAssemblyReference.cache
+H:\MyShit\Leave Mangament\Leave Mangament\obj\Debug\Leave_Mangament.LeaveForm.resources
+H:\MyShit\Leave Mangament\Leave Mangament\obj\Debug\Leave_Mangament.Login.resources
+H:\MyShit\Leave Mangament\Leave Mangament\obj\Debug\Leave_Mangament.Properties.Resources.resources
+H:\MyShit\Leave Mangament\Leave Mangament\obj\Debug\Leave Mangament.csproj.GenerateResource.Cache
+H:\MyShit\Leave Mangament\Leave Mangament\obj\Debug\Leave Mangament.exe
+H:\MyShit\Leave Mangament\Leave Mangament\obj\Debug\Leave Mangament.pdb
+H:\MyShit\Leave Mangament\Leave Mangament\obj\Debug\Leave_Mangament.HomeForm.resources
+H:\MyShit\Leave Mangament\Leave Mangament\obj\Debug\Leave_Mangament.Profile.resources
+H:\MyShit\Leave Mangament\Leave Mangament\obj\Debug\Leave_Mangament.AdminForm.resources
+H:\MyShit\Leave Mangament\Leave Mangament\obj\Debug\Leave_Mangament.Admin.resources
