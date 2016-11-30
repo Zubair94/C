@@ -1,0 +1,10 @@
+/home/zubair/C/Calculator/Calculator/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/zubair/C/Calculator/Calculator/obj/Debug/Calculator.Form1.resources
+/home/zubair/C/Calculator/Calculator/obj/Debug/Calculator.Properties.Resources.resources
+/home/zubair/C/Calculator/Calculator/bin/Debug/Calculator.exe.config
+/home/zubair/C/Calculator/Calculator/bin/Debug/Calculator.exe.mdb
+/home/zubair/C/Calculator/Calculator/bin/Debug/Calculator.pdb
+/home/zubair/C/Calculator/Calculator/bin/Debug/Calculator.exe
+/home/zubair/C/Calculator/Calculator/obj/Debug/Calculator.exe
+/home/zubair/C/Calculator/Calculator/obj/Debug/Calculator.exe.mdb
+/home/zubair/C/Calculator/Calculator/obj/Debug/Calculator.pdb
